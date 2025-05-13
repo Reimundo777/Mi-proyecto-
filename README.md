@@ -3,5 +3,4 @@
 ~  $  echo "Hola mundo > index.html 
 ~  $  git add --all
 ~  $  git commit -m  "Confirmación inicial"
-~  $  git push -u origin main 
-~  $  sistema solar 
+~  $  git push -u origin main
